@@ -1,0 +1,9 @@
+D:\R&D\Parser\Evaluant.Calculator\bin\Debug\Evaluant.Calculator.exe.config
+D:\R&D\Parser\Evaluant.Calculator\bin\Debug\Evaluant.Calculator.exe
+D:\R&D\Parser\Evaluant.Calculator\bin\Debug\Evaluant.Calculator.pdb
+D:\R&D\Parser\Evaluant.Calculator\bin\Debug\Evaluant.Antlr.dll
+D:\R&D\Parser\Evaluant.Calculator\obj\Debug\Evaluant.Calculator.csprojAssemblyReference.cache
+D:\R&D\Parser\Evaluant.Calculator\obj\Debug\Evaluant.Calculator.csproj.CoreCompileInputs.cache
+D:\R&D\Parser\Evaluant.Calculator\obj\Debug\Evaluant.Calculator.csproj.CopyComplete
+D:\R&D\Parser\Evaluant.Calculator\obj\Debug\Evaluant.Calculator.exe
+D:\R&D\Parser\Evaluant.Calculator\obj\Debug\Evaluant.Calculator.pdb
